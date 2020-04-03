@@ -98,9 +98,6 @@ def delete_records():
     [cloud_account.delete() for cloud_account in CloudAccount.objects()]
     [cloud_provider.delete() for cloud_provider in CloudProvider.objects()]
     [customer.delete() for customer in Customer.objects()]
-        
-    
-
 
 if __name__ == '__main__':
     cli()
