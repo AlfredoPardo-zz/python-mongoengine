@@ -1,0 +1,7 @@
+mongodb:
+    db_name: stfa_db
+    username: stfa
+    password: S3c1rItyT3st4bl3#
+    host: 127.0.0.1
+    port: 27017
+    auth_source: admin
