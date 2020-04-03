@@ -1,5 +1,4 @@
 import yaml
-import json
 import click
 
 from mongoengine import connect
